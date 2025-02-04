@@ -38,15 +38,15 @@ Múltiples unidades: Puedes usar varias unidades de PCNT simultáneamente para c
 #include <ESP_CountFreq.h>
 
 void setup() {
-    Serial.begin(115200);
-    ESP_CountFreq.begin(1000000, 14);  // Medir frecuencia cada 1 segundo, Pin entrada de la frecuencia a medir.
+   Serial.begin(115200);
+   ESP_CountFreq.begin(1000000, 14);  // Medir frecuencia cada 1 segundo, Pin entrada de la frecuencia a medir.
 }
 
 void loop() {
-    if (ESP_CountFreq.available()) {
-        uint32_t frequency = ESP_CountFreq.read();
-        Serial.println(frequency);
-    }
+   if (ESP_CountFreq.available()) {
+   uint32_t frequency = ESP_CountFreq.read();
+   Serial.println(frequency);
+   }
 }
 
 Explicación del Código:
