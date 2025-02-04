@@ -4,18 +4,18 @@
 # Class
 #######################################
 
-ESP_CountFreq		      KEYWORD1
-ESP_CountFreqClass		KEYWORD1
+ESP_CountFreq		    KEYWORD1
+ESP_CountFreqClass	KEYWORD1
 
 #######################################
 # Methods and Functions 
 #######################################
 
-begin			        KEYWORD2
-available			    KEYWORD2
-read			        KEYWORD2
-end			          KEYWORD2
+begin			      KEYWORD2
+available			  KEYWORD2
+read			      KEYWORD2
+end			        KEYWORD2
 
 ######################################
-# Constants 		    (LITERAL1)
+# Constants 	(LITERAL1)
 #######################################
