@@ -5,16 +5,16 @@
 #######################################
 
 ESP_CountFreq		      KEYWORD1
+ESP_CountFreqClass		KEYWORD1
 
 #######################################
 # Methods and Functions 
 #######################################
 
-ESP_CountFreqClass		KEYWORD1
-begin			            KEYWORD2
-available			        KEYWORD2
-read			            KEYWORD2
-end			              KEYWORD2
+begin			        KEYWORD2
+available			    KEYWORD2
+read			        KEYWORD2
+end			          KEYWORD2
 
 ######################################
 # Constants 		    (LITERAL1)
