@@ -1,7 +1,7 @@
 /* Ejemplo Biblioteca CountFreq para la medición de frecuencia en los ESP32
 /*
 MIT License Copyright © 2025 EA2EBK
-Versión: 1.0.0
+Versión: 1.0.2
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
